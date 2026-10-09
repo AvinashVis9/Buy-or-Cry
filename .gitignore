@@ -1,0 +1,5 @@
+**/node_modules/
+**/.env
+**/.env.*
+!**/.env.example
+buy-or-cry-fullstack/data/*.json
